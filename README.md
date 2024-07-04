@@ -12,3 +12,5 @@ Probably the worst shit I've ever made but this is a Client for EpicQuest.
 * `antigrab` - Disables item grabbing.
 * `elytraon` - Initializes and starts elytra.
 * `elytraoff` - Uninitializes and unloads dll.
+  
+You can inject this using process hacker, insane injector, dll injector, anything really that works for you.
