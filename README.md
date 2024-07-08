@@ -1,5 +1,4 @@
 # Elytra-Client
-Probably the worst shit I've ever made but this is a Client for EpicQuest.
 
 * Once injected run the command `elytraon` and after that its your preference what you want to do, commands are listed below.
 
